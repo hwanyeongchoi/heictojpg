@@ -6,8 +6,7 @@
 ![스크린샷 2024-05-21 004855](https://github.com/hwanyeong-choi/heicTojpg_python_tkinter/assets/47169718/d40c2ddd-9911-409b-a32e-08a80c802aa9)
 
 ### HeicToJpg 다운로드
-HeicToJpg windows exe 파일 다운로드
-[HeicToJpg.exe](https://github.com/hwanyeongchoi/heicTojpg_python_tkinter/blob/main/heicToJpg.exe)
+HeicToJpg windows [파일 다운로드](https://github.com/hwanyeong-choi/heicTojpg_python_tkinter/releases/tag/v1.0.0)
 
 HeicToJpg windows exe 파일 체크섬[SHA256]
 8DCA1A74D153497C4C14510E476EB6AE2471C7CC641A3388DC0AAE479950FC8E 
